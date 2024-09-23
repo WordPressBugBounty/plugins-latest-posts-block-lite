@@ -1,0 +1,1 @@
+# plugins-latest-posts-block-lite
