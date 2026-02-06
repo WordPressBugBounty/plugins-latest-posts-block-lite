@@ -3,7 +3,7 @@
      * Plugin Name:       Latest Posts Block Lite
      * Plugin URI:        https://afthemes.com/plugins/
      * Description:       Dynamic Posts Grid, Posts List, Posts Tile with Stunning Layouts for WordPress Blogs & Pages
-     * Version:           1.1.2
+     * Version:           1.1.3
      * Author:            AF themes
      * Author URI:        https://afthemes.com
      * Text Domain:       latest-posts-block-lite
